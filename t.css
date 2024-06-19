@@ -213,3 +213,25 @@ article p::after{
         margin-left: 14px ;
     }
 }
+
+@media screen and (max-width: 460px){
+    nav li{
+        display: block;
+        margin: 12px 0;
+        width: 100%;
+    }
+    header{
+        position: relative;
+    }
+    nav{
+        top: 0;
+    }
+    article h2{
+        font-size: 25px;
+        margin-left: 12px;
+    }
+    article p{
+        font-size: 16px;
+        margin-left: 14px ;
+    }
+}
