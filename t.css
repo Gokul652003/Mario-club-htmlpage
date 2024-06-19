@@ -204,4 +204,12 @@ article p::after{
     nav{
         top: 0;
     }
+    article h2{
+        font-size: 25px;
+        margin-left: 12px;
+    }
+    article p{
+        font-size: 16px;
+        margin-left: 14px ;
+    }
 }
